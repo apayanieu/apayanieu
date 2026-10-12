@@ -52,7 +52,7 @@ Dual Degree student in **Economics and Applied Mathematics** at **IE University*
 - 🥈 **2nd Place Infographic & 2nd Place Presentation** — IE Data & Business Analytics Competition ("A Viz to Remember"), 2026
 - 🥉 **3rd Place** — Premio Lidera 2024, Shark B Innovation Track
 - 🏅 **Top 10 in Mathematics** — Premio Lidera, 2023 & 2024
-- 🎖️ **Best Delegate** (DAMUN, MUNTCP) & **Outstanding Delegate** (IEMUN, PASMUN), 2023–2024
+- 🎖️ **Best Delegate** (DAMUN, MUNTCP) & **Outstanding Delegate** (IEMUN, PASMUN), 2023–2025
 
 <h2>🛠️ Technical Skills</h2>
 
