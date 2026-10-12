@@ -33,6 +33,8 @@ Dual Degree student in **Economics and Applied Mathematics** at **IE University*
   - [Analytical stability analysis and numerical simulation of the Gierer–Meinhardt and Gray–Scott models to study pattern formation driven by diffusion and domain geometry](https://github.com/apayanieu/reaction_difussion)
 - <b>Crowd Synchrony and the "Wobbly" Millennium Bridge</b>
   - [Replication of the Strogatz coupled-oscillator model with bifurcation analysis to identify the critical crowd threshold that destabilizes a damped bridge](https://github.com/apayanieu/crowdsynch)
+- <b>Polarized by Design</b>
+  - [An interactive simulation of opinion polarization in adaptive social networks that shows how fixed friendships can evolve into echo chambers as agreement strengthens ties and disagreement weakens them](https://github.com/apayanieu/Polarized_by_Design)
 
 <h2>🌐 Network Science & Computational Social Science</h2>
 
